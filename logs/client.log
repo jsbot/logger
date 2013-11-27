@@ -1,0 +1,21 @@
+[2013-11-11 17:49:01.857] [INFO] logs - TEST INFO STUFF
+[2013-11-11 17:50:57.702] [INFO] logs - { log: 'text for logging' }
+[2013-11-11 17:51:04.867] [INFO] logs - { log: 'text for logging' }
+[2013-11-11 17:51:05.187] [INFO] logs - { log: 'text for logging' }
+[2013-11-11 17:52:06.678] [INFO] logs - { log: 'text for logging' }
+[2013-11-11 17:52:06.838] [INFO] logs - { log: 'text for logging' }
+[2013-11-11 17:52:06.974] [INFO] logs - { log: 'text for logging' }
+[2013-11-11 17:52:07.134] [INFO] logs - { log: 'text for logging' }
+[2013-11-11 17:52:07.294] [INFO] logs - { log: 'text for logging' }
+[2013-11-11 17:52:07.462] [INFO] logs - { log: 'text for logging' }
+[2013-11-11 17:53:59.763] [INFO] logs - { log: 'text for logging', test: '[\'bla\',\'bla\']' }
+[2013-11-11 17:53:59.962] [INFO] logs - { log: 'text for logging', test: '[\'bla\',\'bla\']' }
+[2013-11-11 17:54:00.114] [INFO] logs - { log: 'text for logging', test: '[\'bla\',\'bla\']' }
+[2013-11-11 17:54:00.258] [INFO] logs - { log: 'text for logging', test: '[\'bla\',\'bla\']' }
+[2013-11-11 17:54:00.402] [INFO] logs - { log: 'text for logging', test: '[\'bla\',\'bla\']' }
+[2013-11-11 17:54:00.554] [INFO] logs - { log: 'text for logging', test: '[\'bla\',\'bla\']' }
+[2013-11-11 17:54:00.674] [INFO] logs - { log: 'text for logging', test: '[\'bla\',\'bla\']' }
+[2013-11-13 11:41:10.276] [INFO] logs - { log: 'text for logging', test: '[\'bla\',\'bla\']' }
+[2013-11-13 11:41:11.278] [INFO] logs - { log: 'text for logging', test: '[\'bla\',\'bla\']' }
+[2013-11-13 11:41:11.446] [INFO] logs - { log: 'text for logging', test: '[\'bla\',\'bla\']' }
+[2013-11-13 11:41:11.614] [INFO] logs - { log: 'text for logging', test: '[\'bla\',\'bla\']' }
